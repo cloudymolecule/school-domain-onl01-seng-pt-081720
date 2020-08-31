@@ -9,7 +9,7 @@ class School
       #nothing
     else
       @roster[grade] = []
-      @roster[grade] = [name]
     end
+    @roster[grade] = [name]
   end
 end
