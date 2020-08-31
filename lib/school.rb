@@ -1,4 +1,4 @@
-class School
+class school
   attr_accessor :name
 
   ROSTER = {}
